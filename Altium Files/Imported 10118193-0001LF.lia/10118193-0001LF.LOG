@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : 10118193-0001LF.LibPkg
+
+Section : C:\Users\amann\Desktop\10118193-0001LF.lia
+    Section : PCB Library - 10118193-0001LF.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 10118193-0001LF.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - 10118193-0001LF.SchLib
+        EndSection
+    EndSection
+EndSection
