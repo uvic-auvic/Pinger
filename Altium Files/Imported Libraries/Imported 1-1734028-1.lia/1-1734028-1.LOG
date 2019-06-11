@@ -1,0 +1,35 @@
+PCAD Importer Log
+Project : 1-1734028-1.LibPkg
+
+Section : C:\Users\amann\Desktop\AUVIC_Work\Pinger\1-1734028-1.lia
+    Section : PCB Library - 1-1734028-1.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 136
+            Warning - 1 : Skipping Token isVisible On Line 152
+            Warning - 1 : Skipping Token 1-1734028-1 On Line 178
+            Warning - 1 : Skipping Token attachedSymbol On Line 270
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*TE_1-1734028-1][Primary] associated with PCAD Component [1-1734028-1] has been renamed to PCB FootPrint [*TE_1-1734028-1_1-1734028-1(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1-1734028-1.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 32
+            Warning - 1 : Skipping Token multiLayer On Line 107
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 127
+            Warning - 1 : Skipping Token layerContents On Line 143
+            Warning - 1 : Skipping Token layerContents On Line 159
+            Warning - 1 : Skipping Token layerContents On Line 166
+        EndSection
+
+        Section : Generating SCH Library - 1-1734028-1.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*TE_1-1734028-1][Primary] associated with PCAD Component [1-1734028-1] has been renamed to PCB FootPrint [*TE_1-1734028-1_1-1734028-1(Primary)].
+        EndSection
+    EndSection
+EndSection
