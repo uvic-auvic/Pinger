@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=*JST_XHP-2 New Footprint=HDR2X2
+Change Component Footprint: Designator=LPS4018-332MLB Old Footprint=INDP2828X23N New Footprint=INDC1608L
+Change Component Designator: OldDesignator=3-Cell Bat NewDesignator=Bat
+Change Component Designator: OldDesignator=LPS4018-332MLB NewDesignator=Inductor
