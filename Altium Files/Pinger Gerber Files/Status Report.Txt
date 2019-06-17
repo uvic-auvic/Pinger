@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Pinger.PrjPcb]
+   Generated File[Pinger Final PCB.GTO]
+   Generated File[Pinger Final PCB.GTP]
+   Generated File[Pinger Final PCB.GTS]
+   Generated File[Pinger Final PCB.GTL]
+   Generated File[Pinger Final PCB.GBL]
+   Generated File[Pinger Final PCB.GBS]
+   Generated File[Pinger Final PCB.GBP]
+   Generated File[Pinger Final PCB.GBO]
+   Generated File[Pinger Final PCB.GKO]
+   Generated File[Pinger Final PCB.GD1]
+   Generated File[Pinger Final PCB.GG1]
+   Generated File[Pinger Final PCB.RUL]
+   Generated File[Pinger Final PCB.EXTREP]
+   Generated File[Pinger Final PCB.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 9:04:37 PM On 6/15/2019

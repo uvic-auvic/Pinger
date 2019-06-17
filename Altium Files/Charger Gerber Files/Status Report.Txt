@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Pinger.PrjPcb]
+   Generated File[Charger V3 PCB.GTO]
+   Generated File[Charger V3 PCB.GTP]
+   Generated File[Charger V3 PCB.GTS]
+   Generated File[Charger V3 PCB.GTL]
+   Generated File[Charger V3 PCB.GBL]
+   Generated File[Charger V3 PCB.GBS]
+   Generated File[Charger V3 PCB.GBP]
+   Generated File[Charger V3 PCB.GBO]
+   Generated File[Charger V3 PCB.GKO]
+   Generated File[Charger V3 PCB.GD1]
+   Generated File[Charger V3 PCB.GG1]
+   Generated File[Charger V3 PCB.RUL]
+   Generated File[Charger V3 PCB.EXTREP]
+   Generated File[Charger V3 PCB.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 9:06:14 PM On 6/15/2019
