@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name circuit_pj-eagle-import)(type Legacy)(uri ${KIPRJMOD}/circuit_pj-eagle-import.lib)(options "")(descr ""))
+)
