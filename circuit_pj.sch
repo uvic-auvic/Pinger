@@ -317,34 +317,34 @@ $EndComp
 $Comp
 L Transistor_BJT:2N3906 Q3
 U 1 1 5EC7C800
-P 8950 6250
-F 0 "Q3" H 9141 6204 50  0000 L CNN
-F 1 "2N3906" H 9141 6295 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 9150 6175 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" H 8950 6250 50  0001 L CNN
-	1    8950 6250
+P 8950 5200
+F 0 "Q3" H 9141 5154 50  0000 L CNN
+F 1 "2N3906" H 9141 5245 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 9150 5125 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" H 8950 5200 50  0001 L CNN
+	1    8950 5200
 	-1   0    0    1   
 $EndComp
 $Comp
 L Transistor_BJT:2N3906 Q5
 U 1 1 5EC7DE02
-P 7750 6250
-F 0 "Q5" H 7941 6204 50  0000 L CNN
-F 1 "2N3906" H 7941 6295 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7950 6175 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" H 7750 6250 50  0001 L CNN
-	1    7750 6250
+P 7750 5200
+F 0 "Q5" H 7941 5154 50  0000 L CNN
+F 1 "2N3906" H 7941 5245 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7950 5125 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3906.pdf" H 7750 5200 50  0001 L CNN
+	1    7750 5200
 	1    0    0    1   
 $EndComp
 $Comp
 L Transistor_BJT:2N3904 Q2
 U 1 1 5EC7E557
-P 8950 5200
-F 0 "Q2" H 9140 5246 50  0000 L CNN
-F 1 "2N3904" H 9140 5155 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 9150 5125 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 8950 5200 50  0001 L CNN
-	1    8950 5200
+P 8950 6250
+F 0 "Q2" H 9140 6296 50  0000 L CNN
+F 1 "2N3904" H 9140 6205 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 9150 6175 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 8950 6250 50  0001 L CNN
+	1    8950 6250
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -452,12 +452,12 @@ Wire Wire Line
 $Comp
 L Transistor_BJT:2N3904 Q4
 U 1 1 5EC9D472
-P 7750 5200
-F 0 "Q4" H 7940 5246 50  0000 L CNN
-F 1 "2N3904" H 7940 5155 50  0000 L CNN
-F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7950 5125 50  0001 L CIN
-F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7750 5200 50  0001 L CNN
-	1    7750 5200
+P 7750 6250
+F 0 "Q4" H 7940 6296 50  0000 L CNN
+F 1 "2N3904" H 7940 6205 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 7950 6175 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 7750 6250 50  0001 L CNN
+	1    7750 6250
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -820,4 +820,6 @@ Wire Wire Line
 Connection ~ 10550 4100
 Text GLabel 10400 4100 0    39   Output ~ 0
 Switch
+Text Notes 250  8050 0    118  ~ 0
+The H-bridge inverter will always draw current, make sure to add an external switch to the pin to avoid that from happening
 $EndSCHEMATC
