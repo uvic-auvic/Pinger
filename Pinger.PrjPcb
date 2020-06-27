@@ -30,7 +30,10 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=957D884A-DAD1-4FE6-B505-43E1C74CD266
+VaultGUID=27815e3e-9b6a-4e7f-8958-c98a0c9c9997
+ReleaseVaultName=AUVIC
+ItemGUID=957D884A-DAD1-4FE6-B505-43E1C74CD266
 IncludeDesignInRelease=0
 
 [Preferences]
